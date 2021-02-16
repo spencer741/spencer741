@@ -2,6 +2,6 @@
 
 <!--Found via Tom Xu ... OG: https://github.com/anuraghazra/github-readme-stats-->
 
-![visitors since Feb 14, 2021](https://page-views.glitch.me/badge?page_id=spencer741.spencer741) 
+![](https://page-views.glitch.me/badge?page_id=spencer741.spencer741) 
 
 
