@@ -7,10 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Weekly development breakdown:**
 <!--START_SECTION:waka-->
 ```text
-SQL          5 hrs 38 mins   █████████████████████░░░░   83.38 % 
+SQL          5 hrs 48 mins   █████████████████████▒░░░   85.83 % 
 C#           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JSON         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 <!--END_SECTION:waka-->
 &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=spencer741)
