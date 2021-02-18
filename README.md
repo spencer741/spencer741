@@ -12,11 +12,9 @@ C#           29 mins         █▓░░░░░░░░░░░░░░░
 JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 <!--END_SECTION:waka-->
-<p>
-  <a href="https://linkedin.com/in/spencer-arnold741" target="blank"><img  align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img width="135" height="28" align="center" src="https://komarev.com/ghpvc/?username=spencer741&style=flat-square&label=visitors"/>
 
-</p>
+[![My LinkedIn profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencer-arnold741)
+[![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/spencer741)
 
 
 
