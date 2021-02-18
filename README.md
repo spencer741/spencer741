@@ -13,7 +13,7 @@ JSON         27 mins         █▓░░░░░░░░░░░░░░░
 TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
-&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=spencer741)
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=spencer741)
 
 
 
