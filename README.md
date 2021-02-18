@@ -1,6 +1,6 @@
 
 
-![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&theme=light)
+![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&theme=light&title_color=0077b5&icon_color=0077b5)
 
 <!--something's broken with ghreadmestats ![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741) -->
 **Weekly development breakdown:**
