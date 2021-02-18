@@ -3,8 +3,7 @@
 ![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&theme=light)
 
 <!--something's broken with ghreadmestats ![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741) -->
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Weekly development breakdown:**
+**Weekly development breakdown:**
 <!--START_SECTION:waka-->
 ```text
 SQL          5 hrs 48 mins   █████████████████████▒░░░   85.83 % 
