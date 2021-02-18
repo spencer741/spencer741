@@ -4,7 +4,7 @@
 
 <!--something's broken with ghreadmestats ![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741) -->
 
-📊 **Weekly development breakdown**
+<span/>📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 SQL          5 hrs 38 mins   █████████████████████░░░░   83.38 % 
