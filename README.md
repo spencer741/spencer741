@@ -14,7 +14,7 @@ JavaScript   27 mins         █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <p>
   <a href="https://linkedin.com/in/spencer-arnold741" target="blank"><img  align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img width="200" height="28" align="center" src="https://komarev.com/ghpvc/?username=spencer741&style=flat-square&label=Github+visitors"/>
+<img width="175" height="28" align="center" src="https://komarev.com/ghpvc/?username=spencer741&style=flat-square&label=Github+visitors"/>
 
 </p>
 
