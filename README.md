@@ -13,8 +13,8 @@ JSON         27 mins         █▓░░░░░░░░░░░░░░░
 TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
+&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=spencer741)
 
-![](https://page-views.glitch.me/badge?page_id=spencer741.spencer741)
 
 
 
