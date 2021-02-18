@@ -14,7 +14,7 @@ JavaScript   27 mins         █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 [![My LinkedIn profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencer-arnold741)
-[![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=0072b1&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/spencer741)
+[![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=0077b5&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/spencer741)
 
 
 
