@@ -6,7 +6,7 @@
 **Weekly development breakdown:**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2021 - 17 February, 2021
+Week: 11 February, 2021 - 18 February, 2021
 
 SQL          5 hrs 48 mins   █████████████████████▒░░░   85.83 % 
 C#           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
