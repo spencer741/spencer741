@@ -6,11 +6,11 @@
 **Weekly development breakdown:**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-SQL          5 hrs 48 mins   █████████████████████▒░░░   85.83 % 
-C#           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+SQL          6 hrs 43 mins   █████████████████████▓░░░   86.60 % 
+JavaScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+C#           30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
 
