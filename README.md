@@ -13,9 +13,11 @@ JavaScript   32 mins         █▓░░░░░░░░░░░░░░░
 C#           30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
-
+[![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/spencer741)
 [![My LinkedIn profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencer-arnold741)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=0077b5&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/spencer741)
+
+
 
 
 
