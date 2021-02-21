@@ -8,9 +8,9 @@
 ```text
 Week: 13 February, 2021 - 20 February, 2021
 
-SQL          6 hrs 43 mins   █████████████████████ ▁▁▁   86.60 % 
-JavaScript   32 mins         █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.91 % 
-C#           30 mins         █ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.49 % 
+SQL          6 hrs 43 mins   █████████████████████▋░░░   86.60 % 
+JavaScript   32 mins         █▊░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+C#           30 mins         █▋░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
 [![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/spencer741)
