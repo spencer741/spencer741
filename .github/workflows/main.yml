@@ -14,3 +14,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: &#9601; &#9602; &#9603; &#9604; &#9605; &#9606; &#9607; &#9608;
