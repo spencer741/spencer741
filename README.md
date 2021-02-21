@@ -19,13 +19,6 @@ C#           30 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=0077b5&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/spencer741)
 
 
-&#9601;&#9602;&#9603;&#9604;&#9605;&#9606;&#9607;&#9608;
-
-&#x2581;&#x2582;&#x2583;&#x2584;&#x2585;&#x2586;&#x2587;&#x2588;
-
-&#9617; &#9615; &#9614; &#9613; &#9612; &#9611; &#9610; &#9609; &#9608;
-
-
 
 
 
