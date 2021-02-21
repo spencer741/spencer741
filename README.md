@@ -1,5 +1,3 @@
-
-
 [![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&custom_title=Summary&theme=light&title_color=0077b5&icon_color=0077b5)](https://github.com/spencer741)
 
 [![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741&theme=light&custom_title=Weekly%20development%20breakdown&title_color=0077b5&icon_color=0077b5)](https://wakatime.com/@spencer741)
