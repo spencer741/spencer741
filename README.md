@@ -1,8 +1,8 @@
 
 
-[![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&custom_title=Summary&theme=light&title_color=0077b5&icon_color=0077b5)](https://github.com/spencer741)
+[![](https://github-readme-stats.spencer741.vercel.app/api?username=spencer741&count_private=true&show_icons=true&cache_seconds=1800&custom_title=Summary&theme=light&title_color=0077b5&icon_color=0077b5)](https://github.com/spencer741)
 
-[![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741&theme=light&custom_title=Weekly%20development%20breakdown&title_color=0077b5&icon_color=0077b5)](https://wakatime.com/@spencer741)
+[![](https://github-readme-stats.spencer741.vercel.app/api/wakatime?username=@spencer741&theme=light&cache_seconds=1800&custom_title=Weekly%20development%20breakdown&title_color=0077b5&icon_color=0077b5)](https://wakatime.com/@spencer741)
 
 <p>
 <a href="https://dev.to/spencer741" target="_blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="My Dev To Profile" ></a>
