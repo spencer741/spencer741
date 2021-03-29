@@ -8,4 +8,7 @@
 <!--<a href="https://stackoverflow.com/users/3358589/spencer741" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="My SO Profile" ></a>-->
 <a href="https://github.com/spencer741" target="_blank"><img align="center" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=spencer741.spencer741&color=0077b5&style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="My GH Profile" ></a>
 <a href="https://www.buymeacoffee.com/spencer741" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="125" height="35" align="right" ></a>
+
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=spencer741&theme=github)
