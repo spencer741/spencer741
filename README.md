@@ -12,3 +12,8 @@
 </p>
 
 <!--![](https://activity-graph.herokuapp.com/graph?username=spencer741&theme=github)-->
+
+
+### Quick Links
+
+https://devhints.io/
