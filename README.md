@@ -17,3 +17,5 @@
 ### Quick Links
 
 https://devhints.io/
+
+https://easysnippets.com/
